@@ -66,3 +66,9 @@ gitbook serve可自动生成本地预览，默认端口：4000
 
 
 ##### 3。如果不是第一次，则需要
+
+1. git add .
+2. git pull 分支名 master
+3. git commit -m ""
+4. git push stt master
+
